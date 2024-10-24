@@ -32,7 +32,7 @@ Para poner en funcionamiento una copia local, siga estos sencillos pasos de ejem
 
 -   Escriba `git clone` y luego pegue la URL que copió en el Paso 3.<br>
 
-    `$ git clone git@github.com:luisurdaneta5/e-commerce-frontend.git` <em>Presione la tecla Intro</em><br>
+    `$ git clone git@github.com:luisurdaneta5/e-commerce-backend.git` <em>Presione la tecla Intro</em><br>
 
 -   Se creará su copia local.
 
